@@ -12,3 +12,6 @@ pixogram wire frames-ui/ux
  -> angular model files is created under the 'src/app'  by createing the sub folder in the app folder "filename.model.ts".
  
  -> angular services are used to provide different services they are created by command "ng generate  service (service name)".
+#Entities
+
+entity classes has been created in eclipse using spring java 
