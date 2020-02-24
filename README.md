@@ -22,3 +22,5 @@ entity classes has been created in eclipse using spring java
  created spring entity classes
  # MicroServices with rest end points 
   files in micro service pixo
+  
+ added the services in the microservices which perform the crud activty via post-man client
