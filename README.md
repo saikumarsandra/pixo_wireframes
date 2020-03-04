@@ -28,3 +28,4 @@ entity classes has been created in eclipse using spring java
  added the usersevice+with Api gateway
 
 # added login and register with the user profile pic 
+# added  the plumbing service for the media microservice
